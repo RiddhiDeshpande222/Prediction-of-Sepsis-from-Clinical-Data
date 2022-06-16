@@ -1,0 +1,2 @@
+# Prediction-of-Sepsis-from-Clinical-Data
+Designed a machine learning model that predicts if a patient in an Intensive Care Unit may develop sepsis infection, giving health care providers more information so they can prioritize and adapt medical treatment based on the patient's needs.Performed the Exploratory Data Analysis, perform Co-relation analysis and pick the co-related feature variable for further analysis and Perform Visualizations in Tableau to derive key Insights .
